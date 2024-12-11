@@ -1,0 +1,10 @@
+**.ini
+**.pth
+**.zip
+**__pycache__
+.idea/
+/data/
+/logs/
+/wandb/
+/results/
+/env/
